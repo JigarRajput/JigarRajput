@@ -29,12 +29,7 @@ You can click the Preview link to take a look at your changes.
 <img align="left" src="https://user-images.githubusercontent.com/80737219/148374707-dfd089d7-fd6d-4d81-a6c7-e1b5fcdc6ca2.png" width="50" height="50"/>
 <img align="left" src="https://user-images.githubusercontent.com/80737219/148374802-f8144ec0-7424-4dfa-a5c9-8930d6e215c3.png" width="50" height="50"/>
 
-<br/><br/><br/><br/>
-## <strong>Experience and Internships</strong>
-> ## Sennovate Inc - (Media and Technical Writer Intern)
-  >  Responsible for delivering Articles on Single-Sign On, Multifactor Authentication, Biometrics, Privileged Access Management and similar domains.
-> ## The Sparks Foundation - (Data Science Intern)
-  >  Did a small project on supervised machine learning for predicting students marks
+
 
 
 
