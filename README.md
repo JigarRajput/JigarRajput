@@ -9,8 +9,8 @@ You can click the Preview link to take a look at your changes.
 #### 📫 How to reach me rajputjigar455@gmail.com
 
 
-<img align="left" width="20%" src="https://github-readme-stats.vercel.app/api?username=JigarRajput&show_icons=true&theme=dark&hide_rank=true &hide=contribs"/>
-<img align="left" width="20%"src="https://github-readme-stats.vercel.app/api/top-langs/?username=JigarRajput&layout=compact&theme=dark"/>
+<img align="left" width="40%" src="https://github-readme-stats.vercel.app/api?username=JigarRajput&show_icons=true&theme=dark&hide_rank=true &hide=contribs"/>
+<img align="left" width="40%"src="https://github-readme-stats.vercel.app/api/top-langs/?username=JigarRajput&layout=compact&theme=dark"/>
 
 <br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
