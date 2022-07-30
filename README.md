@@ -17,6 +17,7 @@ You can click the Preview link to take a look at your changes.
 ## <strong><i>Tools & Technologies</i></strong>
 <img align="left" src="https://user-images.githubusercontent.com/80737219/148373415-97e0125c-79e8-40d7-ac44-a4aba306a7d3.png" width="40" height="40"/>
 <img align="left" src="https://pbs.twimg.com/profile_images/446356636710363136/OYIaJ1KK_400x400.png" width="40" height="40"/>
+<img align="left" src="[https://pbs.twimg.com/profile_images/446356636710363136/OYIaJ1KK_400x400.png](https://miro.medium.com/max/400/1*onZhQJU7A3ab6V1sHfMRkQ.jpeg)" width="40" height="40"/>
 <img align="left" src="https://user-images.githubusercontent.com/80737219/148374228-ee95eca8-06a9-491b-bddb-6b8583df0a98.png" width="40" height="40"/>
 <img align="left" src="https://user-images.githubusercontent.com/80737219/148375765-7f48ede9-21b2-4591-a670-11723f7e9417.png" width="40" height="40"/>
 <img align="left" src="https://user-images.githubusercontent.com/80737219/148375862-88e57d9f-deae-4290-bc98-5783c7075a77.png" width="40" height="40"/>    
