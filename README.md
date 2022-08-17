@@ -9,7 +9,7 @@ You can click the Preview link to take a look at your changes.
 #### 📫 How to reach me rajputjigar455@gmail.com
 
 
-<img align="left" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JigarRajput&layout=compact&theme=dark"/>
+<img align="left" width="100%" height="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JigarRajput&layout=compact&theme=dark"/>
 
 <br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
