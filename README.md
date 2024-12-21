@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Jigar Rajput</h1>
-<h3 align="center">A passionate Mobile developer from India</h3>
+<h3 align="center">A passionate Full Stack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jigarrajput&label=Profile%20views&color=0e75b6&style=flat" alt="jigarrajput" /> </p>
 
-- 🔭 I’m currently working on **Flutter, React Native**
+- 🔭 I’m currently working on **Flutter, React Native, NodeJs, ExpressJS, Java**
 
-- 👯 I’m looking to collaborate on **projects in mobile app development**
+- 👯 I’m looking to collaborate on **projects in Full stack app development**
 
-- 💬 Ask me about **Flutter, React Native, ReactJs, JavaScript**
+- 💬 Ask me about **Flutter, React Native, ReactJs, ExpressJs, NodeJs, JavaScript, Java**
 
 - 📫 How to reach me **rajputjigar455@gmail.com**
 
